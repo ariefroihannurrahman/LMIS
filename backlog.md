@@ -15,3 +15,7 @@ Project Backlog
 2. Perusahaan Dashboard
 3. Halaman tambah lowongan pekerjaan
 4. Halaman info mengenai lowongan kerja yang telah dibuat + pendaftar
+
+
+--- System ---
+1. Tambah Social media untuk mengeshare info mengenai pekerjaan dan/atau tips-tips kerja
