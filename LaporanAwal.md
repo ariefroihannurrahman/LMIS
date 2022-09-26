@@ -1,21 +1,21 @@
 Laporan Awal
 
-1.  Deskripsi
-      (Tulis disini sementara!)
-      
-3.  Latar belakang
-      (Tulis disini sementara!)
-      
-5.  Kebutuhan Sistem
-      Sistem memiliki fitur menampilkan informasi perusahaan yang membutuhkan pekerjaan
-      Sistem memiliki fitur menampilkan informasi perusahaan dan pekerja
-      Sistem memiliki fitur kredit skor dan rating
-      Sistem memiliki fitur rekomendasi
-      Sistem memiliki fitur menampilkan statistik pekerja yang memiliki pekerjaan ataupun tidak
-      Sistem memiliki fitur login dan registrasi
-      
-7.  Biaya SDM
-      (Tulis disini sementara!)
-      
-9.  jangka waktu timeline
+1.  Deskripsi <br>
+      (Tulis disini sementara!) <br>
+      <br>
+3.  Latar belakang <br>
+      (Tulis disini sementara!) <br>
+      <br>
+5.  Kebutuhan Sistem <br>
+      Sistem memiliki fitur menampilkan informasi perusahaan yang membutuhkan pekerjaan <br>
+      Sistem memiliki fitur menampilkan informasi perusahaan dan pekerja <br>
+      Sistem memiliki fitur kredit skor dan rating <br>
+      Sistem memiliki fitur rekomendasi <br>
+      Sistem memiliki fitur menampilkan statistik pekerja yang memiliki pekerjaan ataupun tidak <br>
+      Sistem memiliki fitur login dan registrasi <br>
+      <br>
+7.  Biaya SDM <br>
+       (Tulis disini sementara!)<br>
+      <br>
+9.  jangka waktu timeline<br>
       (Tulis disini sementara!)
