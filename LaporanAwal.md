@@ -7,7 +7,12 @@ Laporan Awal
       (Tulis disini sementara!)
       
 5.  Kebutuhan Sistem
-      (Tulis disini sementara!)
+      Sistem memiliki fitur menampilkan informasi perusahaan yang membutuhkan pekerjaan
+      Sistem memiliki fitur menampilkan informasi perusahaan dan pekerja
+      Sistem memiliki fitur kredit skor dan rating
+      Sistem memiliki fitur rekomendasi
+      Sistem memiliki fitur menampilkan statistik pekerja yang memiliki pekerjaan ataupun tidak
+      Sistem memiliki fitur login dan registrasi
       
 7.  Biaya SDM
       (Tulis disini sementara!)
