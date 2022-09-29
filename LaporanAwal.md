@@ -14,6 +14,7 @@ LMIS(Labour Market Information System) bertujuan untuk menghasilkan informasi da
 6.	Aplikasi dapat memberikan rekomendasi pekerjaan kepada user.<br>
 7.	Aplikasi harus memiliki fitur rating dan skor.<br>
 8.	Aplikasi harus memiliki fitur forum/social media<br>
+9.	Aplikasi dapat memberikan rekomendasi pelatihan kepada user<br>
       <br>
 <strong>3.  Biaya SDM </strong><br>
        Kementrian Tenaga Kerja memberikan budget senilai Rp. 791.100.00 <br>
