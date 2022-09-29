@@ -5,9 +5,9 @@
 - Billy (System Analyst & Business Analyst)
 
 #### Proyek
-Judul : LMIS Sistem Informasi Pasar Tenaga Kerja
-Budget : Rp 791.100.000
-Penyelenggara : Kementerian Tenaga Kerja
+Judul : LMIS Sistem Informasi Pasar Tenaga Kerja <br>
+Budget : Rp 791.100.000<br>
+Penyelenggara : Kementerian Tenaga Kerja<br>
 Deskripsi :
 - Informasi ketenagakerjaan
   - Info2 terkait pelatihan
