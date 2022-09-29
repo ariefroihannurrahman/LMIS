@@ -1,7 +1,7 @@
 Laporan Awal
 
 1.  Deskripsi <br>
-      (Tulis disini sementara!) <br>
+      Kementrian Ketenagakerjaan Republik Indonesia(KemnakerRI) adalah kementerian dalam Pemerintah Indonesia yang membidangi urusan ketenagakerjaan. LMIS(Labour Market Information System) atau dapat disebut juga sistem informasi pasar kerja bertujuan untuk menghasilkan informasi dan analisis terkait lowongan pekerjaan bagi para pencari kerja(Job Seeker) maupun pemangku kepentingan pasar tenaga kerja lainnya.
       <br>
 3.  Latar belakang <br>
       (Tulis disini sementara!) <br>
