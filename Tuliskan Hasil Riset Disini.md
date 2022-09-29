@@ -6,12 +6,10 @@ Riset-Riset
 3.  Tingkat Pengangguran Terbuka (TPT) Februari 2022 sebesar 5,83 persen. 5,83% dari jumlah angkatan kerja = <strong>8.395.783</strong> orang <br>
 4.  Terdapat 11,53 juta orang (5,53 persen) penduduk usia kerja yang terdampak COVID-19. Terdiri dari pengangguran karena COVID-19 (0,96 juta orang), Bukan Angkatan Kerja (BAK) karena COVID-19 (0,55 juta orang), sementara tidak bekerja karena COVID-19 (0,58 juta orang), dan penduduk bekerja yang mengalami pengurangan jam kerja karena COVID-19 (9,44 juta orang).
 
--- <strong>Perusahaan</strong> --
-1.
+-- <strong>Perusahaan</strong> -- <br>
+1. Dalam halaman Jobstreet.co.id pada tanggal 29 Sep 2023 terdapat 35.347 lowongan pekerjaan yang tersedia.
 2.
 3.
 
--- <strong>Pemerintah</strong> --
-1.
-2.
-3.
+-- <strong>Pemerintah</strong> -- <br>
+1. Admin merupakan dari pihak KemnakerRI
