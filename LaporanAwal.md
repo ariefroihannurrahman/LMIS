@@ -3,7 +3,7 @@ Laporan Awal
 <strong>1.  Deskripsi dan Latar Belakang</strong> <br>
       Kementrian Ketenagakerjaan Republik Indonesia(KemnakerRI) adalah kementerian dalam Pemerintah Indonesia yang membidangi urusan ketenagakerjaan. Usaha KemnakerRI dalam meningkatkan jumlah angkatan tenaga kerja Indonesia yaitu dengan cara membuat sistem informasi pasar kerja atau LMIS.
 LMIS(Labour Market Information System) bertujuan untuk menghasilkan informasi dan analisis terkait lowongan pekerjaan bagi para pencari kerja(Job Seeker) maupun pemangku kepentingan pasar tenaga kerja lainnya.
-      <br>
+      <br><br>
 <strong>2.  Kebutuhan Aplikasi</strong> <br>
     Ruang lingkup pada proyek ini adalah memenuhi kebutuhan dari aplikasi LMIS, antara lain: <br>
 1.	Aplikasi mampu mengelola login dan registrasi <br>
@@ -16,7 +16,7 @@ LMIS(Labour Market Information System) bertujuan untuk menghasilkan informasi da
 8.	Aplikasi harus memiliki fitur forum/social media<br>
       <br>
 <strong>3.  Biaya SDM </strong><br>
-       Kementrian Tenaga Kerja memberikan budget senilai Rp. 791.100.00 
+       Kementrian Tenaga Kerja memberikan budget senilai Rp. 791.100.00 <br>
       <br>
 <strong>4.  jangka waktu timeline</strong><br>
       Project dikerjakan dalam waktu 3 bulan. Dimulai dari tanggal 15 September 2022 sampai akhir bulan Desember.
