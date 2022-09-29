@@ -18,5 +18,5 @@ LMIS(Labour Market Information System) bertujuan untuk menghasilkan informasi da
 <strong>3.  Biaya SDM </strong><br>
        Kementrian Tenaga Kerja memberikan budget senilai Rp. 791.100.00 <br>
       <br>
-<strong>4.  jangka waktu timeline</strong><br>
+<strong>4.  Jangka Waktu timeline</strong><br>
       Project dikerjakan dalam waktu 3 bulan. Dimulai dari tanggal 15 September 2022 sampai akhir bulan Desember.
